@@ -1,0 +1,10 @@
+{
+    "store":"mysql",
+    "mysql": {
+        "host": "mysql02.llcmms.loc",
+        "user": "daburmatov",
+        "database": "its_main_site",
+        "password": "cH]yKh@:/6'Z55Dq",
+        "port": "3306"
+    }
+} 
