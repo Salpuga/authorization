@@ -23,7 +23,7 @@
 
 ## 📊 Пример
 
-![pigeon-example](https://user-images.githubusercontent.com/73400755/134801938-c917f542-40a7-4ee5-95ef-5484c9d3e930.gif)
+![registration](https://user-images.githubusercontent.com/73400755/132139531-c24141df-d5f9-4a67-8933-4168e4ffa379.gif)
 
 # :fast_forward: План развития
 - [ ] Интеграция MongoDB
