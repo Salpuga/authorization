@@ -3,7 +3,7 @@
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/Salpuga/authorization?style=flat-square)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Salpuga/authorization?style=flat-square)
 ![GitHub top language](https://img.shields.io/github/languages/top/Salpuga/authorization?style=flat-square)
-![GitHub repo size](https://img.shields.io/github/repo-size/PSalpuga/authorization?style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/Salpuga/authorization?style=flat-square)
 ![GitHub](https://img.shields.io/github/license/Salpuga/authorization?style=flat-square)
 
 # :building_construction: Установка зависимостей
